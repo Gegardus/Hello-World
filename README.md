@@ -6,6 +6,8 @@ HELLO_WORLD
 
 > This is my first project in Microverse curriculum. Simple HTML file with greeting to Microverse, styled with color.
 
+![screenshot](./app_screenshot.png)
+
 ## Built With
 
 - HTML
