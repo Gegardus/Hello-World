@@ -13,7 +13,7 @@ HELLO_WORLD
 
 ## Getting Started
 
-{}
+https://gegardus.github.io/Hello-World/
 
 ## Author
 
